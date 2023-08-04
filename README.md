@@ -1,4 +1,4 @@
-Executable file for the game (.exe) can be downloaded from here: https://file.io/1Pg0FvD2kSEm
+Executable file for the game (.exe) can be downloaded from here: [https://file.io/1Pg0FvD2kSEm](https://file.io/IYuKdmITsZbs)
 
 Tic Tac Toe Game Created with AI-Prompted Engineering
 
